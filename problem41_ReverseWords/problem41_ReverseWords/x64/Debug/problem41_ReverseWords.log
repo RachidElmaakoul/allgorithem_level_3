@@ -1,0 +1,4 @@
+﻿  problem41_ReverseWords.cpp
+C:\Users\hp\source\repos\algorithem level 3\problem41_ReverseWords\problem41_ReverseWords\problem41_ReverseWords.cpp(13,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\source\repos\algorithem level 3\problem41_ReverseWords\problem41_ReverseWords\problem41_ReverseWords.cpp(56,5): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  problem41_ReverseWords.vcxproj -> C:\Users\hp\source\repos\algorithem level 3\problem41_ReverseWords\x64\Debug\problem41_ReverseWords.exe

@@ -1,0 +1,4 @@
+﻿  problem42_ReplaceWord.cpp
+C:\Users\hp\source\repos\algorithem level 3\problem42_ReplaceWord\problem42_ReplaceWord\problem42_ReplaceWord.cpp(19,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\source\repos\algorithem level 3\problem42_ReplaceWord\problem42_ReplaceWord\problem42_ReplaceWord.cpp(74,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+  problem42_ReplaceWord.vcxproj -> C:\Users\hp\source\repos\algorithem level 3\problem42_ReplaceWord\x64\Debug\problem42_ReplaceWord.exe
