@@ -1,0 +1,3 @@
+﻿  problem49_findClientByAccountNumber.cpp
+C:\Users\hp\source\repos\algorithem level 3\problem49_findClientByAccountNumber\problem49_findClientByAccountNumber\problem49_findClientByAccountNumber.cpp(22,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  problem49_findClientByAccountNumber.vcxproj -> C:\Users\hp\source\repos\algorithem level 3\problem49_findClientByAccountNumber\x64\Debug\problem49_findClientByAccountNumber.exe
