@@ -1,0 +1,15 @@
+﻿'problem7_.exe' (Win32): Loaded 'C:\Users\hp\source\repos\algorithem level 3\problem7_\x64\Debug\problem7_.exe'. Symbols loaded.
+'problem7_.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'problem7_.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'problem7_.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'problem7_.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'problem7_.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'problem7_.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'problem7_.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x1a08 has exited with code 0 (0x0).
+'problem7_.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'problem7_.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'problem7_.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x40c4 has exited with code 0 (0x0).
+The thread 0x5258 has exited with code 0 (0x0).
+The program '[16816] problem7_.exe' has exited with code 0 (0x0).
