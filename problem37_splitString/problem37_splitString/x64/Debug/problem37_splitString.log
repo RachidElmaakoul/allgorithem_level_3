@@ -1,0 +1,4 @@
+﻿  problem37_splitString.cpp
+C:\Users\hp\source\repos\algorithem level 3\problem37_splitString\problem37_splitString\problem37_splitString.cpp(25,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\source\repos\algorithem level 3\problem37_splitString\problem37_splitString\problem37_splitString.cpp(56,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  problem37_splitString.vcxproj -> C:\Users\hp\source\repos\algorithem level 3\problem37_splitString\x64\Debug\problem37_splitString.exe

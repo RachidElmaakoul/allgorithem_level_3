@@ -1,0 +1,15 @@
+﻿'problem38_trimLeftAndRightandAll.exe' (Win32): Loaded 'C:\Users\hp\source\repos\algorithem level 3\problem38_trimLeftAndRightandAll\x64\Debug\problem38_trimLeftAndRightandAll.exe'. Symbols loaded.
+'problem38_trimLeftAndRightandAll.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'problem38_trimLeftAndRightandAll.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'problem38_trimLeftAndRightandAll.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'problem38_trimLeftAndRightandAll.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'problem38_trimLeftAndRightandAll.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'problem38_trimLeftAndRightandAll.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'problem38_trimLeftAndRightandAll.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x36f0 has exited with code 0 (0x0).
+'problem38_trimLeftAndRightandAll.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'problem38_trimLeftAndRightandAll.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'problem38_trimLeftAndRightandAll.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x335c has exited with code 0 (0x0).
+The thread 0x310 has exited with code 0 (0x0).
+The program '[2352] problem38_trimLeftAndRightandAll.exe' has exited with code 0 (0x0).

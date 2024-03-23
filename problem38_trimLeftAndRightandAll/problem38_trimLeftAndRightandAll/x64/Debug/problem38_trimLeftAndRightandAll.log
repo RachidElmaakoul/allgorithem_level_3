@@ -1,0 +1,3 @@
+﻿  problem38_trimLeftAndRightandAll.cpp
+C:\Users\hp\source\repos\algorithem level 3\problem38_trimLeftAndRightandAll\problem38_trimLeftAndRightandAll\problem38_trimLeftAndRightandAll.cpp(24,5): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  problem38_trimLeftAndRightandAll.vcxproj -> C:\Users\hp\source\repos\algorithem level 3\problem38_trimLeftAndRightandAll\x64\Debug\problem38_trimLeftAndRightandAll.exe
