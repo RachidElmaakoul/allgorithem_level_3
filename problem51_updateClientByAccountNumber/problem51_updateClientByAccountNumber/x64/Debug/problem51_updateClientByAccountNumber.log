@@ -1,0 +1,5 @@
+﻿  problem51_updateClientByAccountNumber.cpp
+C:\Users\hp\source\repos\problem51_updateClientByAccountNumber\problem51_updateClientByAccountNumber\problem51_updateClientByAccountNumber.cpp(23,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\source\repos\problem51_updateClientByAccountNumber\problem51_updateClientByAccountNumber\problem51_updateClientByAccountNumber.cpp(236): warning C4715: 'UpDateClientByAccountNumbers': not all control paths return a value
+C:\Users\hp\source\repos\problem51_updateClientByAccountNumber\problem51_updateClientByAccountNumber\problem51_updateClientByAccountNumber.cpp(188): warning C4715: 'UpDateClientByAccountNumber': not all control paths return a value
+  problem51_updateClientByAccountNumber.vcxproj -> C:\Users\hp\source\repos\problem51_updateClientByAccountNumber\x64\Debug\problem51_updateClientByAccountNumber.exe

@@ -1,0 +1,15 @@
+﻿'problemOne_3_3number.exe' (Win32): Loaded 'C:\Users\hp\source\repos\algorithem level 3\problemOne_3_3number\x64\Debug\problemOne_3_3number.exe'. Symbols loaded.
+'problemOne_3_3number.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'problemOne_3_3number.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'problemOne_3_3number.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'problemOne_3_3number.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'problemOne_3_3number.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'problemOne_3_3number.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'problemOne_3_3number.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x4bc4 has exited with code 0 (0x0).
+'problemOne_3_3number.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'problemOne_3_3number.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'problemOne_3_3number.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x2be4 has exited with code 0 (0x0).
+The thread 0x49d4 has exited with code 0 (0x0).
+The program '[19004] problemOne_3_3number.exe' has exited with code 0 (0x0).

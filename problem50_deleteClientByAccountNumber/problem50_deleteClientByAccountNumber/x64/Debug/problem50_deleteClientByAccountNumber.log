@@ -1,0 +1,4 @@
+﻿  problem50_deleteClientByAccountNumber.cpp
+C:\Users\hp\source\repos\algorithem level 3\problem50_deleteClientByAccountNumber\problem50_deleteClientByAccountNumber\problem50_deleteClientByAccountNumber.cpp(23,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\source\repos\algorithem level 3\problem50_deleteClientByAccountNumber\problem50_deleteClientByAccountNumber\problem50_deleteClientByAccountNumber.cpp(160): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+  problem50_deleteClientByAccountNumber.vcxproj -> C:\Users\hp\source\repos\algorithem level 3\problem50_deleteClientByAccountNumber\x64\Debug\problem50_deleteClientByAccountNumber.exe
