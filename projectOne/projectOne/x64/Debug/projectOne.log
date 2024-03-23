@@ -1,0 +1,5 @@
+﻿  projectOne.cpp
+C:\Users\hp\source\repos\algorithem level 3\projectOne\projectOne\projectOne.cpp(31,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\source\repos\algorithem level 3\projectOne\projectOne\projectOne.cpp(305): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\hp\source\repos\algorithem level 3\projectOne\projectOne\projectOne.cpp(336): warning C4715: 'UpDateClientByAccountNumbers': not all control paths return a value
+  projectOne.vcxproj -> C:\Users\hp\source\repos\algorithem level 3\projectOne\x64\Debug\projectOne.exe
